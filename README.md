@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hakan Ergün</h1>
-<h3 align="center">I am studying at Yildiz Technical University Department of Statistics. I want to be Data Scientist so that I am concerned with Data Science, Deep Learning and Machine Learning. Improving myself and I will achieve what I want with hard working. My main purpose is to work with Artificial Intelligence.</h3>
+<h3 align="center">I am studying at Yildiz Technical University Department of Statistics. I want to be data scientist so that I am currently learning data science, deep learning and machine learning. Improving myself and I will achieve what I want with hard working. </h3>
 
 - 🌱 I’m currently learning **deep learning.**
 
