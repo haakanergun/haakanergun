@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **haakanergun@gmail.com**
 
-- ⚡ I am also **play guitar and sing.**
+- ⚡ I also **play guitar and sing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
